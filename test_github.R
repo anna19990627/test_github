@@ -1,1 +1,7 @@
 a <- 1+1
+
+b <- 6*7
+
+c <- a/b
+
+print("Hello, Anna!")
